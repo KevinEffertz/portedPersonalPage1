@@ -7,6 +7,7 @@
 module.exports = {
   /* Your site config here */
   pathPrefix: "/portedPersonalPage1",
+  assetPrefix: "/portedPersonalPage1",
   plugins: [
     {
       resolve: 'gatsby-plugin-web-font-loader',
